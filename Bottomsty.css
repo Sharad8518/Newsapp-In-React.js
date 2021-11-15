@@ -1,0 +1,92 @@
+*{
+margin: 0;
+padding: 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.Boxsz{
+
+    width: 100%;
+    height: 400px;
+    background:#95a5a6;
+
+}
+
+
+
+
+.boxsc{
+width: 100%;
+height: 300px;
+
+display: flex;
+
+
+}
+.boxsc ul{
+ margin-top: 10px;
+position: absolute;
+list-style: none;
+}
+.boxsc ul li{
+margin: 10px;
+
+
+}
+.boxsc ul li a{
+text-decoration: none;
+color: #fff;
+font-size: 12px;
+
+}
+.boxsc .contact{
+    width:300px ;
+margin-left: 250px;
+margin-top: 50px;
+
+
+
+}
+.boxsc .contact h2{
+
+font-size: 20px;
+
+}
+.boxsc .contact p{
+
+    font-size: 12px;
+
+
+}
+.search{
+margin-top: 50px;
+
+
+}
+.search input[type="text"]{
+width: 300px;
+border-radius: 50px;
+padding: 5px;
+outline: none;
+border: none;
+
+}
+hr{
+width: 100%;
+height: 2px;
+background: floralwhite;
+
+}
+
+.desc {
+    position: absolute;
+    
+    }
+
+    .desc p{
+text-align: center;
+margin-left: 350px;
+font-size: 13px;
+color: honeydew;
+
+    }   
